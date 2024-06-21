@@ -4,3 +4,4 @@ author:archita
 chat screen code
 last seen code
 attachments
+hiding last seen
